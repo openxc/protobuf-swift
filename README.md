@@ -1,3 +1,6 @@
+# Archive Note
+***This repository is no longer being actively maintained and is archived. This used to be a dependency for the OpenXC iOS library but is no longer necessary. All the latest changes to the OpenXC iOS library and sample application are now located at [openxc-ios-library](https://github.com/openxc/openxc-ios-library).***
+
 # Protocol Buffers for Swift
 
 [![Build Status](https://travis-ci.org/alexeyxo/protobuf-swift.svg?branch=master)](https://travis-ci.org/alexeyxo/protobuf-swift) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square)](https://github.com/Carthage/Carthage) [![Version](http://img.shields.io/cocoapods/v/ProtocolBuffers-Swift.svg?style=flat-square)](http://cocoapods.org/?q=ProtocolBuffers-Swift) [![Platform](https://img.shields.io/badge/platform-ios%7Cmacos%7Ctvos%7Cwatchos%7Clinux-brightgreen.svg?style=flat-square)](http://cocoapods.org/?q=ProtocolBuffers)
